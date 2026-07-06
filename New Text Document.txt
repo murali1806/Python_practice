@@ -1,0 +1,4 @@
+git status
+git add .
+git commit -m "Completed Day 5 lists and dictionaries"
+git push
