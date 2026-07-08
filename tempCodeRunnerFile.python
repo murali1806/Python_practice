@@ -1,2 +1,0 @@
-pin=input("enter pin")
-print(pin)
