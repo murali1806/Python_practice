@@ -1,9 +1,0 @@
-from import_check import dad1
-
-class son(dad1): #child
-    def factory(self):
-        print("my factory")
-
-i=son()
-i.house()
-i.factory()
