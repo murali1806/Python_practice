@@ -1,0 +1,9 @@
+creating new file 
+this is new file
+ 
+add 3rd line
+ask
+error not valid
+name 
+murali 
+apple
